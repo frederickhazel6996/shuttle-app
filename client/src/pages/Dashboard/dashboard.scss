@@ -1,0 +1,40 @@
+@import '../../App.scss';
+.dashboard-cards {
+    cursor: pointer;
+    height: 150px;
+    width: 100%;
+    background-color: $secondary-color;
+    border-radius: 3px;
+    color: white;
+    margin-top: 80px;
+}
+
+.card-icon {
+    font-size: 50px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.card-text {
+    font-size: 30px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.pay-form {
+    background-color: white;
+    margin-top: 140px;
+    width: 100%;
+}
+
+.pay-button-text {
+    color: white;
+    &:hover {
+        color: white;
+    }
+}
+
+.close-button {
+    font-size: 25px;
+    color: $secondary-color;
+}

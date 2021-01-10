@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "shuttle-app-5926a",
+    "private_key_id": "b26e40e7db37a7b721620300f6b62c94b43a67e1",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCPHPwMcWUnDcZC\n3jI5md6/5hFcM8yqzD993ZWhZniOmkShn8o6sKiy9wnFlLxFCjJwuLMMUL7l650P\nQADPNmt1P8zuuArI8eVE9UpxZwkEPPa3huI8kPI6CDblUQQ0R2GkY1AaGA0d+VHZ\nPOkEuZqjsFBitpWvhNjg9f6vljK7owlkqoLj0iK0/N8mX2G0RaU5lTYAoyUY30lN\nWMG1mlBrwdjrHf8sWp9O9Gz2w+I88CvniTXyGbqyvevr1gZMBOQcFcDCEP1x9gPX\nDcs0PzSbG31Eq3rSXVuphDjN9pWb3B1smSLF/pFs9U/IzTgEirY9/FitYBFP/bP6\nYrfFJ4P3AgMBAAECggEAHd/Gi5BmNaNN9ips4JJKqdNMX2tet26geFU3hXQfCWGR\nnw18iQjUhltEOm7kaCMLSXV8xr7aQqOO6x6IrLim8NhLHq/jbHP2UJFFo2uHOc/C\nDqiE9HCrZ8rMLs1dK86UxtyGXZQUtOOVHtx0pexap/3HofuMPpHkNf2T1zJqz7kW\ndIbG9ZduN/1OFLEPUT0lpsapm3Hn672GQaI/oP0Hh+vedDJUpJcglCWFMVVFcl5f\nNucSegHWOigPcFrUqmw0JvNLxgyk1kL0gIwuYipzZWObuLlOcT9YDL3uR3rI8yPM\n5l4oQnMuBEcignaazrtpWBlGA97XKE4zK98jfRtDxQKBgQDAlv1mD1glbAieQWcc\n1NMTH0G/jheoOZ+NevBAGn6qgj09EhcTGJFDk7YedYiqUahGQkafYY1GDdMH405E\nYKycU/PdMPXHpsnRQhd4LUT2pHIF+u9qozSU8FItaldP4uU1H5k+rjyCduC9p6jG\nVCbtTwyMRemCpblWE4CQyP25GwKBgQC+O7ZY/nXuqZYeG4FqK9CkT9HoM0k/Qe6H\nmdlK5QoHl/9p5I7h/hpOfKzm8RZqH2/M67yDcE9fbvQy1Zk07r5gN77ihZStRF6p\nNh9adYa6G2UiXP+3U1z16lhNZm2I/w7NidMIuvs1NgAVlbYeL7UUwd1kbu6lXGfp\ngdQjl+oKVQKBgHebDgJdUzPidTO7kIsiTXgZuF57o4uRRdq62AwnqDTCr7+GxZfR\ncR3T1Y3zFo4YKnZ/4JZJIlC4cy/55finRWvM462iI3H7zmjMMAEttB+tHzdBkYDb\nnONGoPKdkV4GnqywVB7OXLv1kjuWrUWGq6pDpppTLOM7gu/HKthASvqzAoGAPT5m\nH1KUzyhDzx+V04OVoUCdWH8iZr4oN/m87hK83uL9dK8DnRg8ieYzmAon6DSEvtlq\nEHrY4uWKss73iwYNvlZUGwNccUfgneNxxqKtpD7rmVuNbAznkbhHg2ulegR7VIq5\nqUbhVykyb8CKKD+9sZgUWaApLo2IWrHUhT0EOR0CgYAMSVlmnNVRXQubFWlFA262\n5ANqeEJXvqOncCKKpy8xcgfA2b64/V0NZWkF8AgdjuRT7etudCbiuPprElhe/M9I\nyiIZ2TqAvnhWIa221hRIuJ2piH35hFQZ15vxp6JdZRzvnGfHVKghGbh7LXnBd4kI\nJ5lKr+z3XMJLPsN/PK2fWg==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-74jke@shuttle-app-5926a.iam.gserviceaccount.com",
+    "client_id": "108556824114155332983",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "databaseURL": "https://shuttle-app-5926a.firebaseio.com/",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-74jke%40shuttle-app-5926a.iam.gserviceaccount.com"
+}

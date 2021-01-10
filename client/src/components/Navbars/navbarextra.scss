@@ -1,0 +1,46 @@
+@import '../../App.scss';
+.topnavextra {
+    background-color: $background-color;
+    width: 100%;
+    display: inline-block;
+    list-style: none;
+    margin-left: 0px;
+    .nav-title {}
+}
+
+.margin-right-10 {
+    margin-right: 10px;
+}
+
+.extra-button {
+    border-color: $secondary-color;
+    color: $secondary-color;
+    &:hover {
+        background-color: $secondary-color;
+        color: white;
+        border-color: $secondary-color;
+    }
+    &:focus {
+        background-color: $secondary-color !important;
+        color: white;
+        border-color: $secondary-color !important;
+        box-shadow: none !important;
+    }
+    &:active {
+        box-shadow: none !important;
+    }
+}
+
+.initials {
+    background-color: $secondary-color;
+    color: white !important;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 10px;
+}
+
+.full-screen-topnav {
+    @media screen and (max-width: 599px) {
+        display: none;
+    }
+}

@@ -1,0 +1,29 @@
+$font-family1: 'Lato',
+sans-serif;
+$font-family2: 'Quicksand',
+sans-serif;
+//Colors
+$background-color: #f0efed;
+$main-color: #00ff7f;
+$secondary-color: #00fa9a;
+$misc-color: #566179;
+//$tertiary-color: #29142b;
+$tertiary-color: #4e73de;
+body {
+    font-family: $font-family2;
+    margin-top: 65px;
+}
+
+#overlay-5 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.2);
+    z-index: 2;
+    cursor: pointer;
+}
