@@ -12,7 +12,7 @@ $ git clone https://github.com/frederickhazel6996/shuttle-tracker-app.git
 $ npm i
 ```
 
-## Pre-requirementsssss 4vbqc4m3tn5sttmt4bgmleb5ebzwd2mcrgal3dcq6b77t3fpw4sq
+## Pre-requirementsssss
 
 -   [MongoDB](https://gist.github.com/nrollr/9f523ae17ecdbb50311980503409aeb3)
 -   [Node](https://nodejs.org/en/download/) ^10.0.0
